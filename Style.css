@@ -1,0 +1,56 @@
+body {
+	margin: 20px 200px 0 200px;
+	font-family: 'Bree Serif', serif;
+	line-height: 25px;
+	background-color: rgb(10, 10, 51);
+	color: white;
+}
+	
+
+h1{
+	font-size: 3rem;
+}
+
+h2{
+	font-size: 2rem;
+}
+
+h3{
+	font-size: 1.5rem;
+}
+
+hr{
+	border-width: 2px;
+	border-color: #7986cb;
+}
+
+.section-intro section{
+	display: flex;
+	flex-direction: row;
+
+}
+
+.section-intro ul{
+	width: 62%;
+	margin: 0px 0px 0px 0px;
+}
+
+.section-intro img{
+	margin: 0px 15px;
+	height: 370px;
+}
+
+.section-awards section{
+	display: flex;
+	flex-direction: row;
+}
+
+.section-awards img{
+	margin: 20px;
+}
+
+.quote{
+	font-family:'Tangerine', cursive;
+	font-size: 2rem;
+	line-height: 2rem;
+}
